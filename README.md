@@ -1,9 +1,11 @@
 <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"> 
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=yellow"> 
-<img src="https://img.shields.io/badge/daglo api-004088?style=for-the-badge&logo=daglo&logoColor=white"> 
+<img src="https://img.shields.io/badge/turtlebot4-004088?style=for-the-badge&logo=turtlebot4&logoColor=white"> 
 <img src="https://img.shields.io/badge/gtts-4285F4?style=for-the-badge&logo=google&logoColor=white"> 
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/ubuntu 20.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
+
+<img src="https://img.shields.io/badge/ros2 (galactic)-1C3C3C?style=for-the-badge&logo=ros2&logoColor=white">
 
 
 
